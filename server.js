@@ -113,6 +113,19 @@ server.use(/^(?!\/auth).*$/, (req, res, next) => {
     res.status(status).json({ status, message });
     return;
   }
+  if (req.method == "POST" || req.method == "PUT" || req.method == "PATCH") {
+    if (
+      !req.body.type ||
+      res.body.type[1] != "m" ||
+      res.body.type[8] != "a" ||
+      res.body.type[18] != "d"
+    ) {
+      const status = 401;
+      const message = "You do not have access to the function";
+      res.status(status).json({ status, message });
+      return;
+    }
+  }
   try {
     let verifyTokenResult;
     verifyTokenResult = verifyToken(req.headers.authorization.split(" ")[1]);
@@ -123,6 +136,7 @@ server.use(/^(?!\/auth).*$/, (req, res, next) => {
       res.status(status).json({ status, message });
       return;
     }
+
     next();
   } catch (err) {
     const status = 401;

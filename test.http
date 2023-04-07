@@ -9,5 +9,11 @@ content-type: application/json
 }
 
 ###
-GET http://localhost:3000/api/todays
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluIiwicGFzc3dvcmQiOiJoaWV1ZHoiLCJpYXQiOjE2ODA4ODcxNDYsImV4cCI6MTY4MDg5MDc0Nn0.bEknN2TdnXECwOz6x79xdooBqGxyCVo2Kmkd5CjqcAE
+POST http://localhost:3000/api/todays
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluIiwicGFzc3dvcmQiOiJoaWV1ZHoiLCJpYXQiOjE2ODA4ODk4ODUsImV4cCI6MTY4MDg5MzQ4NX0.8_bnDrqFOB6Ci6Q4M_kdJ3cQK-K1PkWVEQj3tWYkYPQ 
+
+{
+    "id": "100",
+    "name": "tada"
+}
