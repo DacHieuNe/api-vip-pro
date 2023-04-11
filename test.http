@@ -9,6 +9,10 @@ content-type: application/json
 }
 
 ###
+GET http://localhost:3000/api/todays
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluIiwicGFzc3dvcmQiOiJoaWV1ZHoiLCJpYXQiOjE2ODExMDg1NTQsImV4cCI6MTY4MTExMjE1NH0.bHnjdZTIJDSW5otaFx2xDCSvM_I7dGcNvWV3lQlrmyg
+
+###
 POST http://localhost:3000/api/todays
 Content-Type: application/json
 Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluIiwicGFzc3dvcmQiOiJoaWV1ZHoiLCJpYXQiOjE2ODA4ODk4ODUsImV4cCI6MTY4MDg5MzQ4NX0.8_bnDrqFOB6Ci6Q4M_kdJ3cQK-K1PkWVEQj3tWYkYPQ 
