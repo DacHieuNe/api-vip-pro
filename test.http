@@ -1,6 +1,6 @@
 ###
 
-POST http://localhost:3000/auth/login
+POST https://api-vip.onrender.com/auth/login
 content-type: application/json
 
 {
@@ -9,8 +9,8 @@ content-type: application/json
 }
 
 ###
-GET http://localhost:3000/api/todays
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluIiwicGFzc3dvcmQiOiJoaWV1ZHoiLCJpYXQiOjE2ODExMDg1NTQsImV4cCI6MTY4MTExMjE1NH0.bHnjdZTIJDSW5otaFx2xDCSvM_I7dGcNvWV3lQlrmyg
+GET https://api-vip.onrender.com/api/slide
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluIiwicGFzc3dvcmQiOiJoaWV1ZHoiLCJpYXQiOjE2ODEyMDA1MDcsImV4cCI6MTY4MTIwNDEwN30.6JHIZbxhe4XiB3hxKrvsGbSxdyt64M2Tv0ta9FTjCj8
 
 ###
 POST http://localhost:3000/api/todays

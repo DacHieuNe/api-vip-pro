@@ -472,7 +472,7 @@ const fs = require("fs");
         view: "134,678",
         love: "19,000",
         follower: "5,698",
-        category: ["Phiêu Lưu"],
+        category: "Phiêu Lưu",
         description:
           "Đây là một tập phim dài 60 phút bao gồm các đoạn phim liên quan đến cặp đôi cảnh sát Miwako Sato và Wataru Takagi. Xuyên suốt những thước phim, khán giả sẽ cùng nhìn lại những cuộc phiêu lưu mà họ đã cùng nhau trải qua cùng và những bước ngoặt đáng nhớ trong cuộc tình của cả hai.",
         images: "https://i.postimg.cc/HLv0QFH1/banner1.jpg",
@@ -496,7 +496,7 @@ const fs = require("fs");
         view: "631,000",
         love: "75,181",
         follower: "1,698",
-        category: ["Phiêu Lưu"],
+        category: "Phiêu Lưu",
         description:
           "Bị bắt sau khi bị kết tội mưu đồ ám sát Raikage, lãnh đạo tối cao của làng Mây cũng như sát hại các ninja Thượng đẳng của làng Sương Mù và làng Đá, Naruto sau đó bị giam vào ngục Hozukijou (còn được gọi là Huyết Ngục) Mui - kẻ đứng đầu nơi này sử dụng một loại nhẫn thuật tối thượng để đánh cắp sức mạnh của những tù nhân ở đây. Naruto cũng cảm nhận được mình đang bị thế lực nào đó truy sát. Những cuộc điều tra nhằm tìm ra sự thật về kẻ sát nhân giấu mặt cũng như khẳng định sự vô tội của Naruto từ đó cũng bắt đầu.",
         images: "https://i.postimg.cc/P5dhsRDD/banner3.jpg",
@@ -508,7 +508,7 @@ const fs = require("fs");
         view: "1,532,125",
         love: "35,232",
         follower: "30,352",
-        category: ["Phiêu Lưu"],
+        category: "Phiêu Lưu",
         description:
           "Dragon Ball Super kể về những cuộc phiêu lưu của Goku trong khoảng thời gian 10 năm sau thất bại của Majin Buu. Sau khi gặp những sinh vật mạnh hơn rất nhiều, Goku đạt được sức mạnh của một vị thần và phải học cách sử dụng sức mạnh mới đó trong vũ trụ của mình khi du hành đến các vũ trụ khác để đối mặt với những kẻ thù mạnh hơn và những kẻ thù gần như không thể ngăn cản. ",
         images: "https://i.postimg.cc/c4CD279m/banner4.jpg",
