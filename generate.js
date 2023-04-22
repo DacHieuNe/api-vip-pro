@@ -7,6 +7,7 @@ const fs = require("fs");
       {
         id: faker.datatype.uuid(),
         name: "ISEKAI DE CHEAT SKILL WO TE NI SHITA ORE WA, GENJITSU SEKAI WO MO MUSOU SURU: LEVEL UP WA JINSEI WO KAETA TẬP 1",
+        episode: "1",
         youtubeID: "mCgnSU4DLnM",
         view: "16,008",
         love: "240",
@@ -25,6 +26,7 @@ const fs = require("fs");
       {
         id: faker.datatype.uuid(),
         name: "ISEKAI WA SMARTPHONE TO TOMO NI. TẬP 13",
+        episode: "13",
         youtubeID: "xCb1-JZFMlM",
         view: "2,155,782",
         love: "7,203",
@@ -43,6 +45,7 @@ const fs = require("fs");
       {
         id: faker.datatype.uuid(),
         name: "KUMA KUMA KUMA BEAR TẬP 12",
+        episode: "12",
         youtubeID: "5p7R85uHzP0",
         view: "171,380",
         love: "855",
@@ -61,6 +64,7 @@ const fs = require("fs");
       {
         id: faker.datatype.uuid(),
         name: "ALICE GEAR AEGIS EXPANSION TẬP 1",
+        episode: "1",
         youtubeID: "mCgnSU4DLnM",
         view: "4,231",
         love: "24",
@@ -79,6 +83,7 @@ const fs = require("fs");
       {
         id: faker.datatype.uuid(),
         name: "《Kaguya-sama: Love Is War -The First Kiss That Never Ends-》 - Main PV1",
+        episode: "Trailer",
         youtubeID: "5rb4cHXVs9U",
         view: "31,576",
         love: "176",
@@ -97,6 +102,7 @@ const fs = require("fs");
       {
         id: faker.datatype.uuid(),
         name: "Ushio và Tora - Tập 13 [Việt sub]",
+        episode: "13",
         youtubeID: "WFHrTBFjeOo",
         view: "119,948",
         love: "293",
@@ -115,6 +121,7 @@ const fs = require("fs");
       {
         id: faker.datatype.uuid(),
         name: "MY HOME HERO TẬP 1",
+        episode: "1",
         youtubeID: "9GxczGZh2I",
         view: "8,307",
         love: "61",
@@ -133,6 +140,7 @@ const fs = require("fs");
       {
         id: faker.datatype.uuid(),
         name: "Loving Yamada at Lv999! - Official Trailer | English Sub",
+        episode: "Trailer",
         youtubeID: "TJn4CziJD04",
         view: "29,695",
         love: "402",
