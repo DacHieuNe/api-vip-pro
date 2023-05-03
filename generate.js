@@ -307,7 +307,7 @@ const fs = require("fs");
         id: faker.datatype.uuid(),
         name: "ONE PIECE",
         chap: "Chap 1080",
-        title: "Vua Hải Tặc, Đảo Hải Tặc",
+        title: "Vua Hải Tặc",
         author: "Oda",
         status: "Đang cập nhật",
         view: "14,874,976",
