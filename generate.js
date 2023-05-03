@@ -266,8 +266,8 @@ const fs = require("fs");
     story: [
       {
         id: faker.datatype.uuid(),
-        name: "EDENS ZERO CHAP 233",
-        chapter: "Chap 233",
+        name: "EDENS ZERO",
+        chap: "Chap 233",
         title: "Edens Zero - Vũ Trụ Phiêu Lưu Ký",
         author: "Mashima Hiro",
         status: "Đang cập nhật",
@@ -305,8 +305,8 @@ const fs = require("fs");
       },
       {
         id: faker.datatype.uuid(),
-        name: "ONE PIECE CHAP 1080",
-        chapter: "Chap 1080",
+        name: "ONE PIECE",
+        chap: "Chap 1080",
         title: "Vua Hải Tặc, Đảo Hải Tặc",
         author: "Oda",
         status: "Đang cập nhật",
@@ -338,8 +338,8 @@ const fs = require("fs");
       },
       {
         id: faker.datatype.uuid(),
-        name: "AHAREN-SAN WA HAKARENAI CHAP 142",
-        chapter: "Chap 142",
+        name: "AHAREN-SAN WA HAKARENAI",
+        chap: "Chap 142",
         title: "Aharen-San Thật Khó Hiểu",
         author: "Mizu, Asato",
         status: "Đang cập nhật",
@@ -368,8 +368,8 @@ const fs = require("fs");
       },
       {
         id: faker.datatype.uuid(),
-        name: "JUJUTSU KAISEN - CHÚ THUẬT HỒI CHIẾN CHAP 219",
-        chapter: "Chap 219",
+        name: "JUJUTSU KAISEN - CHÚ THUẬT HỒI CHIẾN",
+        chap: "Chap 219",
         title: "Vật Thể Bị Nguyền Rủa",
         author: "Akutami Gege",
         status: "Đang cập nhật",
@@ -405,8 +405,8 @@ const fs = require("fs");
       },
       {
         id: faker.datatype.uuid(),
-        name: "KINGDOM – VƯƠNG GIẢ THIÊN HẠ CHAP 753",
-        chapter: "Chap 753",
+        name: "KINGDOM – VƯƠNG GIẢ THIÊN HẠ",
+        chap: "Chap 753",
         title: "Kingdom",
         author: "Hara Yasuhisa",
         status: "Đang cập nhật",
@@ -444,8 +444,8 @@ const fs = require("fs");
       },
       {
         id: faker.datatype.uuid(),
-        name: "NGỰ LINH THẾ GIỚI CHAP 718",
-        chapter: "Chap 718",
+        name: "NGỰ LINH THẾ GIỚI",
+        chap: "Chap 718",
         title: "Ngự Linh Thế Giới",
         author: "Đang cập nhật",
         status: "Đang cập nhật",
