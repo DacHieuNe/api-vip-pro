@@ -21,7 +21,7 @@ const fs = require("fs");
           "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta Vietsub",
           "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta tập mới nhất",
         ],
-        images: "https://i.postimg.cc/HWvtVSvB/image1.png",
+        images: "https://i.postimg.cc/8c0VFSnY/r-9.jpg",
       },
       {
         id: faker.datatype.uuid(),
@@ -40,7 +40,7 @@ const fs = require("fs");
           "Isekai wa Smartphone to Tomo ni. Vietsub",
           "Isekai wa Smartphone to Tomo ni. HD",
         ],
-        images: "https://i.postimg.cc/pTWMcjrT/image2.png",
+        images: "https://i.postimg.cc/CKqdSvdY/r-8.jpg",
       },
       {
         id: faker.datatype.uuid(),
@@ -59,7 +59,7 @@ const fs = require("fs");
           "Kuma Kuma Kuma Bear Vietsub",
           "Kuma Kuma Kuma Bear HD",
         ],
-        images: "https://i.postimg.cc/HLJ6YsN2/image3.jpg",
+        images: "https://i.postimg.cc/wvQ52xX1/r-7.jpg",
       },
       {
         id: faker.datatype.uuid(),
@@ -78,7 +78,7 @@ const fs = require("fs");
           "Alice Gear Aegis Expansion HD",
           "Alice Gear Aegis Expansion tập mới nhất",
         ],
-        images: "https://i.postimg.cc/9039dcJc/image4.png",
+        images: "https://i.postimg.cc/2SSQwfy6/r-6.jpg",
       },
       {
         id: faker.datatype.uuid(),
@@ -97,7 +97,7 @@ const fs = require("fs");
           "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai Vietsub",
           "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai HD",
         ],
-        images: "https://i.postimg.cc/wBNgtN44/image5.png",
+        images: "https://i.postimg.cc/c1wFzZm4/r-5.jpg",
       },
       {
         id: faker.datatype.uuid(),
@@ -116,7 +116,7 @@ const fs = require("fs");
           "Nokemono-tachi no Yoru Vietsub",
           "Nokemono-tachi no Yoru HD",
         ],
-        images: "https://i.postimg.cc/pLcKVmp6/image6.png",
+        images: "https://i.postimg.cc/cCHPQbp8/r-4.jpg",
       },
       {
         id: faker.datatype.uuid(),
@@ -135,7 +135,7 @@ const fs = require("fs");
           "My Home Hero Vietsub",
           "My Home Hero HD",
         ],
-        images: "https://i.postimg.cc/9MR6gw75/image7.png",
+        images: "'https://i.postimg.cc/3RgxsdNZ/r-3.jpg",
       },
       {
         id: faker.datatype.uuid(),
@@ -154,7 +154,7 @@ const fs = require("fs");
           "Yamada-kun to Lv999 no Koi wo Suru Vietsub",
           "Yamada-kun to Lv999 no Koi wo Suru HD",
         ],
-        images: "https://i.postimg.cc/7PBznCNY/image8.jpg",
+        images: "https://i.postimg.cc/pX3YVjrQ/r-2.jpg",
       },
       {
         id: faker.datatype.uuid(),
@@ -173,7 +173,7 @@ const fs = require("fs");
           "Rokudo's Bad Girls",
           "Rokudou no Onna-tachi Vietsub",
         ],
-        images: "https://i.postimg.cc/HLP6Pmh3/t-1.jpg",
+        images: "https://i.postimg.cc/g0Cw9y2Q/r-1.jpg",
       },
       {
         id: faker.datatype.uuid(),
