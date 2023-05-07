@@ -612,7 +612,7 @@ const fs = require("fs");
         category: "Phiêu Lưu",
         description:
           "Đây là một tập phim dài 60 phút bao gồm các đoạn phim liên quan đến cặp đôi cảnh sát Miwako Sato và Wataru Takagi. Xuyên suốt những thước phim, khán giả sẽ cùng nhìn lại những cuộc phiêu lưu mà họ đã cùng nhau trải qua cùng và những bước ngoặt đáng nhớ trong cuộc tình của cả hai.",
-        images: "https://i.postimg.cc/HLv0QFH1/banner1.jpg",
+        images: "https://i.postimg.cc/jdTV7TdC/c-2.jpg",
       },
       {
         id: faker.datatype.uuid(),
@@ -624,7 +624,7 @@ const fs = require("fs");
         category: "Phiêu Lưu",
         description:
           "Những hình ảnh đầu tiên từ bộ moving toon Cánh hoa trôi giữa Hoàng triều đã được hé lộ. Câu chuyện về Lý Chiêu Hoàng - vị nữ hoàng đế đầu tiên và cũng là duy nhất trong lịch sử Việt Nam, một mối tình khởi nguồn cho một cuộc chuyển giao quyền lực trước nay chưa từng có, sự khởi đầu và kết thúc của hai triều đại phong kiến rực rỡ bậc nhất trong lịch sử Việt Nam, tất cả sẽ được mang đến trong bộ moving toon lấy cảm hứng từ đề tại lịch sử này.",
-        images: "https://i.postimg.cc/W4mzVkWW/banner2.jpg",
+        images: "https://i.postimg.cc/43dh5jwT/c-1.png",
       },
       {
         id: faker.datatype.uuid(),
@@ -636,7 +636,7 @@ const fs = require("fs");
         category: "Phiêu Lưu",
         description:
           "Bị bắt sau khi bị kết tội mưu đồ ám sát Raikage, lãnh đạo tối cao của làng Mây cũng như sát hại các ninja Thượng đẳng của làng Sương Mù và làng Đá, Naruto sau đó bị giam vào ngục Hozukijou (còn được gọi là Huyết Ngục) Mui - kẻ đứng đầu nơi này sử dụng một loại nhẫn thuật tối thượng để đánh cắp sức mạnh của những tù nhân ở đây. Naruto cũng cảm nhận được mình đang bị thế lực nào đó truy sát. Những cuộc điều tra nhằm tìm ra sự thật về kẻ sát nhân giấu mặt cũng như khẳng định sự vô tội của Naruto từ đó cũng bắt đầu.",
-        images: "https://i.postimg.cc/P5dhsRDD/banner3.jpg",
+        images: "https://i.postimg.cc/0jPsP1z6/c-3.jpg",
       },
       {
         id: faker.datatype.uuid(),
