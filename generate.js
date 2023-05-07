@@ -405,7 +405,7 @@ const fs = require("fs");
         view: "541,860",
         description:
           "Shiki là một thanh niên từ bé đã sống trên một hành tinh toàn robot. Rebecca, một cô gái lạc quan, có ước mơ trở thành một siêu sao B-cuber nổi tiếng khắp vũ trụ. Sau cuộc gặp gỡ định mệnh và một số biến cố xảy ra trên hành tinh quê hương của Shiki, Rebecca đã đưa cậu vào vũ trụ, hòa nhập với thế giới của con người. Shiki, Rebecca và chú mèo Happy sẽ bắt đầu vào cuộc hành trình tìm kiếm Mother, vị nữ thần ban điều ước đầy quyền năng của vũ trụ. Liệu cuộc hành trình của họ sẽ diễn ra như thế nào?",
-        post: "https://i.postimg.cc/5y22dNhH/post.jpg",
+        post: "https://i.postimg.cc/NM7wHRhr/n-1.jpg",
         banner: [
           "https://i.postimg.cc/W3LCBWJx/banner1.jpg",
           "https://i.postimg.cc/MTqt0hBZ/banner2.jpg",
@@ -444,7 +444,7 @@ const fs = require("fs");
         follower: "1,994",
         description:
           "One Piece là câu truyện kể về Luffy và các thuyền viên của mình. Khi còn nhỏ, Luffy ước mơ trở thành Vua Hải Tặc. Cuộc sống của cậu bé thay đổi khi cậu vô tình có được sức mạnh có thể co dãn như cao su, nhưng đổi lại, cậu không bao giờ có thể bơi được nữa. Giờ đây, Luffy cùng những người bạn hải tặc của mình ra khơi tìm kiếm kho báu One Piece, kho báu vĩ đại nhất trên thế giới. Trong One Piece, mỗi nhân vật trong đều mang một nét cá tính đặc sắc kết hợp cùng các tình huống kịch tính, lối dẫn tru...",
-        post: "https://i.postimg.cc/02B2FS9D/post.jpg",
+        post: "https://i.postimg.cc/ZYCwwR8y/n-2.jpg",
         banner: ["https://i.postimg.cc/66VMMVLb/banner1.jpg"],
         chapter: [
           "https://i.postimg.cc/6pK2YRcc/chap1.jpg",
@@ -477,7 +477,7 @@ const fs = require("fs");
         follower: "25",
         description:
           "One Piece là câu truyện kể về Luffy và các thuyền viên của mình. Khi còn nhỏ, Luffy ước mơ trở thành Vua Hải Tặc. Cuộc sống của cậu bé thay đổi khi cậu vô tình có được sức mạnh có thể co dãn như cao su, nhưng đổi lại, cậu không bao giờ có thể bơi được nữa. Giờ đây, Luffy cùng những người bạn hải tặc của mình ra khơi tìm kiếm kho báu One Piece, kho báu vĩ đại nhất trên thế giới. Trong One Piece, mỗi nhân vật trong đều mang một nét cá tính đặc sắc kết hợp cùng các tình huống kịch tính, lối dẫn tru...",
-        post: "https://i.postimg.cc/vBb2dM99/post.jpg",
+        post: "https://i.postimg.cc/kXyR8N2N/n-3.jpg",
         banner: ["https://i.postimg.cc/rpwXSSn7/banner1.jpg"],
         chapter: [
           "https://i.postimg.cc/8k68Bk4k/chap1.jpg",
@@ -507,7 +507,7 @@ const fs = require("fs");
         follower: "574",
         description:
           "Yuuji Itadori là một thiên tài có tốc độ và sức mạnh, nhưng cậu ấy muốn dành thời gian của mình trong Câu lạc bộ Tâm Linh. Một ngày sau cái chết của ông mình, anh gặp Megumi Fushiguro, người đang tìm kiếm vật thể bị nguyền rủa mà các thành viên CLB đã tìm thấy. Đối mặt với những con quái vật khủng khiếp bị Ám, Yuuji nuốt vật thể bị phong ấn để có được sức mạnh của nó và cứu bạn bè của mình! Nhưng giờ Yuuji là người bị Ám, và cậu ấy sẽ bị kéo vào thế giới ma quỷ ly kỳ của Megumi ",
-        post: "https://i.postimg.cc/8c3syvvD/post.jpg",
+        post: "https://i.postimg.cc/GtyNVhyr/n-4.jpg",
         banner: ["https://i.postimg.cc/Gmv9QHmw/banner1.jpg"],
         chapter: [
           "https://i.postimg.cc/NfmrNNdz/chap1.jpg",
@@ -544,7 +544,7 @@ const fs = require("fs");
         follower: "56",
         description:
           "Trải qua hàng triệu năm kể từ thời đại của các vị thần. Đây là thời mà khát vọng của một người có thể xoay chuyển cả thế giới. Thời đại của hơn 500 năm binh biến: thời Chiến Quốc.",
-        post: "https://i.postimg.cc/26LYWsK5/post.jpg",
+        post: "https://i.postimg.cc/9XdY8740/n-5.jpg",
         banner: [
           "https://i.postimg.cc/bNWQHkrN/banner1.jpg",
           "https://i.postimg.cc/kXv2DSSp/banner2.jpg",
@@ -583,7 +583,7 @@ const fs = require("fs");
         follower: "33",
         description:
           "Một họa sĩ truyện tranh xuyên qua dị giới Đến lúc đó, hắn nhận ra 1 vấn đề Ta không phải nhân vật chính ? Mà là nhân vật phản diện đối địch với nhân vật chính ? Cái kịch bản này không đúng nha!",
-        post: "https://i.postimg.cc/LspHZtY1/post.jpg",
+        post: "https://i.postimg.cc/ZYXcYvnF/n-6.jpg",
         banner: [],
         chapter: [
           "https://i.postimg.cc/ZKXN2M2z/chap1.jpg",
