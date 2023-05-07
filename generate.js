@@ -135,7 +135,7 @@ const fs = require("fs");
           "My Home Hero Vietsub",
           "My Home Hero HD",
         ],
-        images: "'https://i.postimg.cc/3RgxsdNZ/r-3.jpg",
+        images: "https://i.postimg.cc/3RgxsdNZ/r-3.jpg",
       },
       {
         id: faker.datatype.uuid(),
