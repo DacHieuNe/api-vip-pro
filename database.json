@@ -1,179 +1,149 @@
 {
   "all": [
     {
-      "id": "32f5491e-9d1b-480e-9709-af1395c964cd",
+      "id": "4059465e-9556-4b5f-b6ed-4a2350369562",
       "name": "ISEKAI DE CHEAT SKILL WO TE NI SHITA ORE WA, GENJITSU SEKAI WO MO MUSOU SURU: LEVEL UP WA JINSEI WO KAETA TẬP 1",
       "type": "news"
     },
     {
-      "id": "0ba74384-6af0-4203-be39-84397dc90b7f",
+      "id": "c70d63dc-2a14-4d6a-9e72-d3bbf47d01c7",
       "name": "ISEKAI WA SMARTPHONE TO TOMO NI. TẬP 13",
       "type": "news"
     },
     {
-      "id": "61e964cf-deae-4f6a-be92-25cdacc84589",
+      "id": "6a6c9012-52b8-49b1-91b3-5142f24b0ea2",
       "name": "KUMA KUMA KUMA BEAR TẬP 12",
       "type": "news"
     },
     {
-      "id": "61d34350-a141-4d9d-91ee-4fb21a0a208e",
+      "id": "6bf3ffdf-4cbb-4360-99db-dcc3f4a0f8f4",
       "name": "ALICE GEAR AEGIS EXPANSION TẬP 1",
       "type": "news"
     },
     {
-      "id": "3ed10b18-fb1b-42e9-bac1-0afa63e032f3",
+      "id": "4a16028a-bdf9-4195-9b22-417eb0375921",
       "name": "《Kaguya-sama: Love Is War -The First Kiss That Never Ends-》 - Main PV1",
       "type": "news"
     },
     {
-      "id": "78bed867-b6e7-4012-b869-60b949bb558c",
+      "id": "f722145f-88e2-459f-ac28-37841363128c",
       "name": "Ushio và Tora - Tập 13 [Việt sub]",
       "type": "news"
     },
     {
-      "id": "8bb2fbaa-a152-42ee-b59b-fb18dc9bbbbb",
+      "id": "c6256dd6-2a31-4e25-b557-926a5dd476af",
       "name": "MY HOME HERO TẬP 1",
       "type": "news"
     },
     {
-      "id": "0e536eef-f238-4896-953c-6bc5e1bd3bc5",
+      "id": "bb81b3bd-6725-4342-b59e-45eb35e01fcc",
       "name": "Loving Yamada at Lv999! - Official Trailer | English Sub",
       "type": "news"
     },
     {
-      "id": "fa39b1cd-f1ae-40aa-970a-81207dc9f19d",
+      "id": "82896c63-07cf-4314-a305-3ec10d775c38",
       "name": "ROKUDOU NO ONNA-TACHI TẬP 01",
       "type": "news"
     },
     {
-      "id": "6e1e776a-1203-40b2-a7c3-d1c05ca11360",
+      "id": "122ad980-eb1a-4957-a3c3-14868c175cb9",
       "name": "LAST PERIOD: OWARINAKI RASEN NO MONOGATARI TẬP 11",
       "type": "news"
     },
     {
-      "id": "c8ad9075-da31-4535-b186-860633b507eb",
+      "id": "9fce4b55-539b-45b4-a56a-d5c6b69e68c6",
       "name": "TONDEMO SKILL DE ISEKAI HOUROU MESHI TẬP 12",
       "type": "news"
     },
     {
-      "id": "ed4fd5dc-ee1e-49a6-8347-f5abf50c8f6c",
+      "id": "3bdd6703-388a-47bb-98f8-fdd13c022ebe",
       "name": "NINGEN FUSHIN NO BOUKENSHA-TACHI GA SEKAI WO SUKUU YOU DESU TẬP 12",
       "type": "news"
     },
     {
-      "id": "c86c6709-0f35-421f-b59b-f830fbd74d0c",
+      "id": "f0415546-7cca-49eb-b5a2-e973462189d0",
       "name": "Doraemon - Tập 460 - Ngôi Nhà Trực Thăng - Sinh Nhật Tồi Tệ Của Shizuka - Hoạt Hình Tiếng Việt",
       "type": "todays"
     },
     {
-      "id": "27e70780-5ac9-4321-bfac-d41aff8ec5c6",
+      "id": "f342a1e5-ff52-4d5a-b762-4621fe004b1b",
       "name": "Doraemon - Tập 491 - Tôm Chiên Của Nobita, Mọi Người Ơi! Cứu Mình Với!",
       "type": "todays"
     },
     {
-      "id": "7e9c6dcc-9d24-419e-a661-2392188cdf62",
+      "id": "2dbd1d09-bf93-449c-b8b9-2f2532ff703f",
       "name": "Doraemon Tập 276 - Khăn Trải Bàn Ẩm Thực, Việc Làm Thêm Của Người Tuyết",
       "type": "todays"
     },
     {
-      "id": "cc3fc05d-95d7-4511-a948-05b35e302cfb",
+      "id": "bcf6c204-8983-4028-b6ab-7c60a4b0d678",
       "name": "Doraemon Tập 284 - Đội Trưởng Nobita, Tên Lửa Của Thiên Tài Dekisugi",
       "type": "todays"
     },
     {
-      "id": "1f3cc6d9-139c-4e5c-af33-3da33fb5ae6a",
+      "id": "3ac7e75c-3829-45cd-b606-dad0e68e8b2e",
       "name": "Doraemon Tập 285 - Siêu Áo Giáp, Câu Chuyện Của Tinh Linh Và Nobita",
       "type": "todays"
     },
     {
-      "id": "3077358a-50cf-4a50-ae24-5be7ba7a4e60",
+      "id": "ddce1762-9047-4c38-9bf8-5b2d80906046",
       "name": "Doraemon Tập 307 - Tiếp Tục Cuộc Hành Trình Của Mình - Tiếng Việt",
       "type": "todays"
     },
     {
-      "id": "c1f1a24f-7a8c-4a68-9099-f120ee970563",
+      "id": "fadfd9fa-3001-464e-90a3-276af4b21690",
       "name": "Doraemon Tập 292 - Trò Chơi người Thật Của Tương Lai, Thám Tử Nobita",
       "type": "todays"
     },
     {
-      "id": "f748db1d-f2b3-4c6a-a1bd-03f5073f06a4",
+      "id": "ee68ea83-bf7e-4a18-9032-954577963da0",
       "name": "Doraemon - Tập 511 - Thợ Săn Khủng Long - Hoạt Hình Tiếng Viêt",
       "type": "todays"
     },
     {
-      "id": "24f0975f-803d-414a-b284-253e6275d004",
+      "id": "0b8f4bbe-c4c8-4f18-a38a-fde89e9f1b97",
       "name": "Doraemon Tập 331 - Đi Bộ Dưới Đáy Biển, Mùa Đông Giữa Mùa Hè",
       "type": "todays"
     },
     {
-      "id": "7ceb6e1a-d7eb-4394-a027-146205cf69d9",
+      "id": "0de672d9-7f6f-4a6e-9852-40c1b472ae1c",
       "name": "Doraemon Tập 278 - Máy Giao Dịch, Trang Trại Bánh Kẹo",
       "type": "todays"
     },
     {
-      "id": "7f16037c-7405-4fc8-a2a1-f56f959d3b02",
+      "id": "0b85ce18-7b46-419d-9203-238b900020cc",
       "name": "Doraemon Tập 344 - Chương Trình Ăn Tối Đáng Sợ Của Jaian, Đôi Khi Nobita Cũng Dùng Não Suy Nghĩ",
       "type": "todays"
     },
     {
-      "id": "015bff05-6065-49d3-bbbf-2bc3af76c02a",
+      "id": "3cedc7ff-b233-4a1b-9871-604a943cec22",
       "name": "Doraemon Tập 343 - Đẩy Lùi Người Ngoài Hành Tinh",
       "type": "todays"
     },
     {
-      "id": "5c4a92a6-a8c1-434f-abcc-7b06ffe4292e",
-      "name": "EDENS ZERO",
-      "type": "storys"
-    },
-    {
-      "id": "72aef83d-4b54-4d6f-a9f1-d59f56f36364",
-      "name": "ONE PIECE",
-      "type": "storys"
-    },
-    {
-      "id": "40be70c8-5e62-4f62-b4f4-c816966db2aa",
-      "name": "AHAREN-SAN WA HAKARENAI",
-      "type": "storys"
-    },
-    {
-      "id": "fd36b08d-3d03-4b2c-9ac5-d0393e4c1b16",
-      "name": "JUJUTSU KAISEN - CHÚ THUẬT HỒI CHIẾN",
-      "type": "storys"
-    },
-    {
-      "id": "c95da1ab-8434-4d66-9829-05412c5e8a04",
-      "name": "KINGDOM – VƯƠNG GIẢ THIÊN HẠ",
-      "type": "storys"
-    },
-    {
-      "id": "3f3d8595-108b-40d0-a1e1-ae75f97cd646",
-      "name": "NGỰ LINH THẾ GIỚI",
-      "type": "storys"
-    },
-    {
-      "id": "e6350234-6b3a-4741-ba32-8bc6560f7279",
+      "id": "9de64c39-844c-49a1-b28c-41c46bda8942",
       "name": "Thám tử lừng danh Conan - Chuyện Tình Sở Cảnh Sát",
       "type": "slides"
     },
     {
-      "id": "4c752bcc-dd12-4dd7-b685-f29835eb9452",
+      "id": "47f2b12e-1c2c-4d70-9c0a-49bd1804a580",
       "name": "Cánh Hoa Trôi Giữa Hoàng Triều Mùa 1 - Tập Full",
       "type": "slides"
     },
     {
-      "id": "1a103f60-47ad-4211-a2ae-bd74f5307b8c",
+      "id": "cb123770-223d-47ce-9909-9228ff4e9490",
       "name": "Naruto Movie 5 : Huyết Ngục",
       "type": "slides"
     },
     {
-      "id": "c08226fd-cfd7-4618-a70a-d15f91f81d39",
+      "id": "754b6e57-0bdd-4491-b61d-41fe8ac1e386",
       "name": "Dragon Ball Super",
       "type": "slides"
     }
   ],
   "news": [
     {
-      "id": "32f5491e-9d1b-480e-9709-af1395c964cd",
+      "id": "4059465e-9556-4b5f-b6ed-4a2350369562",
       "name": "ISEKAI DE CHEAT SKILL WO TE NI SHITA ORE WA, GENJITSU SEKAI WO MO MUSOU SURU: LEVEL UP WA JINSEI WO KAETA TẬP 1",
       "episode": "1",
       "youtubeID": "mCgnSU4DLnM",
@@ -191,7 +161,7 @@
       "images": "https://i.postimg.cc/8c0VFSnY/r-9.jpg"
     },
     {
-      "id": "0ba74384-6af0-4203-be39-84397dc90b7f",
+      "id": "c70d63dc-2a14-4d6a-9e72-d3bbf47d01c7",
       "name": "ISEKAI WA SMARTPHONE TO TOMO NI. TẬP 13",
       "episode": "13",
       "youtubeID": "xCb1-JZFMlM",
@@ -209,7 +179,7 @@
       "images": "https://i.postimg.cc/CKqdSvdY/r-8.jpg"
     },
     {
-      "id": "61e964cf-deae-4f6a-be92-25cdacc84589",
+      "id": "6a6c9012-52b8-49b1-91b3-5142f24b0ea2",
       "name": "KUMA KUMA KUMA BEAR TẬP 12",
       "episode": "12",
       "youtubeID": "5p7R85uHzP0",
@@ -227,7 +197,7 @@
       "images": "https://i.postimg.cc/wvQ52xX1/r-7.jpg"
     },
     {
-      "id": "61d34350-a141-4d9d-91ee-4fb21a0a208e",
+      "id": "6bf3ffdf-4cbb-4360-99db-dcc3f4a0f8f4",
       "name": "ALICE GEAR AEGIS EXPANSION TẬP 1",
       "episode": "1",
       "youtubeID": "mCgnSU4DLnM",
@@ -245,7 +215,7 @@
       "images": "https://i.postimg.cc/2SSQwfy6/r-6.jpg"
     },
     {
-      "id": "3ed10b18-fb1b-42e9-bac1-0afa63e032f3",
+      "id": "4a16028a-bdf9-4195-9b22-417eb0375921",
       "name": "《Kaguya-sama: Love Is War -The First Kiss That Never Ends-》 - Main PV1",
       "episode": "Trailer",
       "youtubeID": "5rb4cHXVs9U",
@@ -263,7 +233,7 @@
       "images": "https://i.postimg.cc/c1wFzZm4/r-5.jpg"
     },
     {
-      "id": "78bed867-b6e7-4012-b869-60b949bb558c",
+      "id": "f722145f-88e2-459f-ac28-37841363128c",
       "name": "Ushio và Tora - Tập 13 [Việt sub]",
       "episode": "13",
       "youtubeID": "WFHrTBFjeOo",
@@ -281,7 +251,7 @@
       "images": "https://i.postimg.cc/cCHPQbp8/r-4.jpg"
     },
     {
-      "id": "8bb2fbaa-a152-42ee-b59b-fb18dc9bbbbb",
+      "id": "c6256dd6-2a31-4e25-b557-926a5dd476af",
       "name": "MY HOME HERO TẬP 1",
       "episode": "1",
       "youtubeID": "9GxczGZh2I",
@@ -299,7 +269,7 @@
       "images": "https://i.postimg.cc/3RgxsdNZ/r-3.jpg"
     },
     {
-      "id": "0e536eef-f238-4896-953c-6bc5e1bd3bc5",
+      "id": "bb81b3bd-6725-4342-b59e-45eb35e01fcc",
       "name": "Loving Yamada at Lv999! - Official Trailer | English Sub",
       "episode": "Trailer",
       "youtubeID": "TJn4CziJD04",
@@ -317,7 +287,7 @@
       "images": "https://i.postimg.cc/pX3YVjrQ/r-2.jpg"
     },
     {
-      "id": "fa39b1cd-f1ae-40aa-970a-81207dc9f19d",
+      "id": "82896c63-07cf-4314-a305-3ec10d775c38",
       "name": "ROKUDOU NO ONNA-TACHI TẬP 01",
       "episode": "1",
       "youtubeID": "expwV588-XY",
@@ -335,7 +305,7 @@
       "images": "https://i.postimg.cc/g0Cw9y2Q/r-1.jpg"
     },
     {
-      "id": "6e1e776a-1203-40b2-a7c3-d1c05ca11360",
+      "id": "122ad980-eb1a-4957-a3c3-14868c175cb9",
       "name": "LAST PERIOD: OWARINAKI RASEN NO MONOGATARI TẬP 11",
       "episode": "11",
       "youtubeID": "0DuRcVSrppY",
@@ -353,7 +323,7 @@
       "images": "https://i.postimg.cc/Bvg08jtb/t-2.jpg"
     },
     {
-      "id": "c8ad9075-da31-4535-b186-860633b507eb",
+      "id": "9fce4b55-539b-45b4-a56a-d5c6b69e68c6",
       "name": "TONDEMO SKILL DE ISEKAI HOUROU MESHI TẬP 12",
       "episode": "12",
       "youtubeID": "gp3hYaFMggE",
@@ -372,7 +342,7 @@
       "images": "https://i.postimg.cc/76nnryBp/t-3.jpg"
     },
     {
-      "id": "ed4fd5dc-ee1e-49a6-8347-f5abf50c8f6c",
+      "id": "3bdd6703-388a-47bb-98f8-fdd13c022ebe",
       "name": "NINGEN FUSHIN NO BOUKENSHA-TACHI GA SEKAI WO SUKUU YOU DESU TẬP 12",
       "episode": "12",
       "youtubeID": "EHc-xyLxOAQ",
@@ -392,7 +362,7 @@
   ],
   "todays": [
     {
-      "id": "c86c6709-0f35-421f-b59b-f830fbd74d0c",
+      "id": "f0415546-7cca-49eb-b5a2-e973462189d0",
       "name": "Doraemon - Tập 460 - Ngôi Nhà Trực Thăng - Sinh Nhật Tồi Tệ Của Shizuka - Hoạt Hình Tiếng Việt",
       "youtubeID": "Z9uEn2IVPkQ",
       "view": "114,468",
@@ -404,7 +374,7 @@
       "images": "https://i.postimg.cc/nhRthz7L/image9.png"
     },
     {
-      "id": "27e70780-5ac9-4321-bfac-d41aff8ec5c6",
+      "id": "f342a1e5-ff52-4d5a-b762-4621fe004b1b",
       "name": "Doraemon - Tập 491 - Tôm Chiên Của Nobita, Mọi Người Ơi! Cứu Mình Với!",
       "youtubeID": "aiEzbK3YszI",
       "view": "153,668",
@@ -416,7 +386,7 @@
       "images": "https://i.postimg.cc/JhYj19RX/image10.jpg"
     },
     {
-      "id": "7e9c6dcc-9d24-419e-a661-2392188cdf62",
+      "id": "2dbd1d09-bf93-449c-b8b9-2f2532ff703f",
       "name": "Doraemon Tập 276 - Khăn Trải Bàn Ẩm Thực, Việc Làm Thêm Của Người Tuyết",
       "youtubeID": "Xk7GKMV3Ipg",
       "view": "234,643",
@@ -428,7 +398,7 @@
       "images": "https://i.postimg.cc/Jn9JXZD4/image11.jpg"
     },
     {
-      "id": "cc3fc05d-95d7-4511-a948-05b35e302cfb",
+      "id": "bcf6c204-8983-4028-b6ab-7c60a4b0d678",
       "name": "Doraemon Tập 284 - Đội Trưởng Nobita, Tên Lửa Của Thiên Tài Dekisugi",
       "youtubeID": "5IafY9dMiFQ",
       "view": "453,324",
@@ -440,7 +410,7 @@
       "images": "https://i.postimg.cc/dt0vCpF3/image12.png"
     },
     {
-      "id": "1f3cc6d9-139c-4e5c-af33-3da33fb5ae6a",
+      "id": "3ac7e75c-3829-45cd-b606-dad0e68e8b2e",
       "name": "Doraemon Tập 285 - Siêu Áo Giáp, Câu Chuyện Của Tinh Linh Và Nobita",
       "youtubeID": "1nl5YuXuV0c",
       "view": "53,235",
@@ -452,7 +422,7 @@
       "images": "https://i.postimg.cc/sxNL7nPG/image13.jpg"
     },
     {
-      "id": "3077358a-50cf-4a50-ae24-5be7ba7a4e60",
+      "id": "ddce1762-9047-4c38-9bf8-5b2d80906046",
       "name": "Doraemon Tập 307 - Tiếp Tục Cuộc Hành Trình Của Mình - Tiếng Việt",
       "youtubeID": "gnJKhjMr5cY",
       "view": "53,325",
@@ -464,7 +434,7 @@
       "images": "https://i.postimg.cc/Njf4B8RW/image15.jpg"
     },
     {
-      "id": "c1f1a24f-7a8c-4a68-9099-f120ee970563",
+      "id": "fadfd9fa-3001-464e-90a3-276af4b21690",
       "name": "Doraemon Tập 292 - Trò Chơi người Thật Của Tương Lai, Thám Tử Nobita",
       "youtubeID": "Y9aVQrQVHG8",
       "view": "6,398",
@@ -476,7 +446,7 @@
       "images": "https://i.postimg.cc/mDwkL9Y5/image16.jpg"
     },
     {
-      "id": "f748db1d-f2b3-4c6a-a1bd-03f5073f06a4",
+      "id": "ee68ea83-bf7e-4a18-9032-954577963da0",
       "name": "Doraemon - Tập 511 - Thợ Săn Khủng Long - Hoạt Hình Tiếng Viêt",
       "youtubeID": "ADkVOsJwAAU",
       "view": "64,322",
@@ -488,7 +458,7 @@
       "images": "https://i.postimg.cc/k58J6Vv3/image17.jpg"
     },
     {
-      "id": "24f0975f-803d-414a-b284-253e6275d004",
+      "id": "0b8f4bbe-c4c8-4f18-a38a-fde89e9f1b97",
       "name": "Doraemon Tập 331 - Đi Bộ Dưới Đáy Biển, Mùa Đông Giữa Mùa Hè",
       "youtubeID": "i_bsMOp9C84",
       "view": "75,668",
@@ -500,7 +470,7 @@
       "images": "https://i.postimg.cc/fLD15km9/image18.jpg"
     },
     {
-      "id": "7ceb6e1a-d7eb-4394-a027-146205cf69d9",
+      "id": "0de672d9-7f6f-4a6e-9852-40c1b472ae1c",
       "name": "Doraemon Tập 278 - Máy Giao Dịch, Trang Trại Bánh Kẹo",
       "youtubeID": "J4Lva96VCnk",
       "view": "7,665",
@@ -512,7 +482,7 @@
       "images": "https://i.postimg.cc/LXv43cYm/image19.jpg"
     },
     {
-      "id": "7f16037c-7405-4fc8-a2a1-f56f959d3b02",
+      "id": "0b85ce18-7b46-419d-9203-238b900020cc",
       "name": "Doraemon Tập 344 - Chương Trình Ăn Tối Đáng Sợ Của Jaian, Đôi Khi Nobita Cũng Dùng Não Suy Nghĩ",
       "youtubeID": "Z3wQunEaMRU",
       "view": "65,444",
@@ -524,7 +494,7 @@
       "images": "https://i.postimg.cc/WpHTp60Y/image20.jpg"
     },
     {
-      "id": "015bff05-6065-49d3-bbbf-2bc3af76c02a",
+      "id": "3cedc7ff-b233-4a1b-9871-604a943cec22",
       "name": "Doraemon Tập 343 - Đẩy Lùi Người Ngoài Hành Tinh",
       "youtubeID": "oM3Cr3h-ljQ",
       "view": "644,334",
@@ -538,7 +508,7 @@
   ],
   "storys": [
     {
-      "id": "5c4a92a6-a8c1-434f-abcc-7b06ffe4292e",
+      "id": "17283181-e474-4923-b440-efebdc174f81",
       "name": "EDENS ZERO",
       "chap": "Chap 233",
       "title": "Edens Zero - Vũ Trụ Phiêu Lưu Ký",
@@ -576,7 +546,7 @@
       "footer": []
     },
     {
-      "id": "72aef83d-4b54-4d6f-a9f1-d59f56f36364",
+      "id": "7d97dae6-8a7b-43f1-81a3-fdec01e4be5d",
       "name": "ONE PIECE",
       "chap": "Chap 1080",
       "title": "Vua Hải Tặc",
@@ -608,7 +578,7 @@
       ]
     },
     {
-      "id": "40be70c8-5e62-4f62-b4f4-c816966db2aa",
+      "id": "5f3219a6-20c1-4d8d-bb6c-9859cbac491a",
       "name": "AHAREN-SAN WA HAKARENAI",
       "chap": "Chap 142",
       "title": "Aharen-San Thật Khó Hiểu",
@@ -637,7 +607,7 @@
       "footer": []
     },
     {
-      "id": "fd36b08d-3d03-4b2c-9ac5-d0393e4c1b16",
+      "id": "bfb3030c-7d7d-4eb2-86ce-ba57371b72a4",
       "name": "JUJUTSU KAISEN - CHÚ THUẬT HỒI CHIẾN",
       "chap": "Chap 219",
       "title": "Vật Thể Bị Nguyền Rủa",
@@ -673,7 +643,7 @@
       "footer": []
     },
     {
-      "id": "c95da1ab-8434-4d66-9829-05412c5e8a04",
+      "id": "4e415194-1faa-4e11-a6c6-53ed9fbe331f",
       "name": "KINGDOM – VƯƠNG GIẢ THIÊN HẠ",
       "chap": "Chap 753",
       "title": "Kingdom",
@@ -711,7 +681,7 @@
       "footer": []
     },
     {
-      "id": "3f3d8595-108b-40d0-a1e1-ae75f97cd646",
+      "id": "a46a37d7-1b59-4d0d-ab36-4ac9a5a2950b",
       "name": "NGỰ LINH THẾ GIỚI",
       "chap": "Chap 718",
       "title": "Ngự Linh Thế Giới",
@@ -741,7 +711,7 @@
   ],
   "slides": [
     {
-      "id": "e6350234-6b3a-4741-ba32-8bc6560f7279",
+      "id": "9de64c39-844c-49a1-b28c-41c46bda8942",
       "name": "Thám tử lừng danh Conan - Chuyện Tình Sở Cảnh Sát",
       "youtubeID": "q4VFvQJ3vt0",
       "view": "134,678",
@@ -752,7 +722,7 @@
       "images": "https://i.postimg.cc/jdTV7TdC/c-2.jpg"
     },
     {
-      "id": "4c752bcc-dd12-4dd7-b685-f29835eb9452",
+      "id": "47f2b12e-1c2c-4d70-9c0a-49bd1804a580",
       "name": "Cánh Hoa Trôi Giữa Hoàng Triều Mùa 1 - Tập Full",
       "youtubeID": "HYNyfAylavY",
       "view": "565,434",
@@ -763,7 +733,7 @@
       "images": "https://i.postimg.cc/43dh5jwT/c-1.png"
     },
     {
-      "id": "1a103f60-47ad-4211-a2ae-bd74f5307b8c",
+      "id": "cb123770-223d-47ce-9909-9228ff4e9490",
       "name": "Naruto Movie 5 : Huyết Ngục",
       "youtubeID": "LIrXtG5viTM",
       "view": "631,000",
@@ -774,7 +744,7 @@
       "images": "https://i.postimg.cc/0jPsP1z6/c-3.jpg"
     },
     {
-      "id": "c08226fd-cfd7-4618-a70a-d15f91f81d39",
+      "id": "754b6e57-0bdd-4491-b61d-41fe8ac1e386",
       "name": "Dragon Ball Super",
       "youtubeID": "gxKeCTtRytE",
       "view": "1,532,125",

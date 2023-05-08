@@ -667,13 +667,6 @@ const fs = require("fs");
       type: "todays",
     });
   });
-  data.storys.forEach((item) => {
-    data.all.push({
-      id: item.id,
-      name: item.name,
-      type: "storys",
-    });
-  });
   data.slides.forEach((item) => {
     data.all.push({
       id: item.id,
