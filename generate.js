@@ -3,6 +3,7 @@ const fs = require("fs");
 
 (() => {
   let data = {
+    all: [],
     news: [
       {
         id: faker.datatype.uuid(),
@@ -392,7 +393,7 @@ const fs = require("fs");
         images: "https://i.postimg.cc/KjrWTbR5/image21.jpg",
       },
     ],
-    story: [
+    storys: [
       {
         id: faker.datatype.uuid(),
         name: "EDENS ZERO",
@@ -601,7 +602,7 @@ const fs = require("fs");
         footer: [],
       },
     ],
-    slide: [
+    slides: [
       {
         id: faker.datatype.uuid(),
         name: "Thám tử lừng danh Conan - Chuyện Tình Sở Cảnh Sát",
@@ -652,6 +653,34 @@ const fs = require("fs");
       },
     ],
   };
+  data.news.forEach((item) => {
+    data.all.push({
+      id: item.id,
+      name: item.name,
+      type: "news",
+    });
+  });
+  data.todays.forEach((item) => {
+    data.all.push({
+      id: item.id,
+      name: item.name,
+      type: "todays",
+    });
+  });
+  data.storys.forEach((item) => {
+    data.all.push({
+      id: item.id,
+      name: item.name,
+      type: "storys",
+    });
+  });
+  data.slides.forEach((item) => {
+    data.all.push({
+      id: item.id,
+      name: item.name,
+      type: "slides",
+    });
+  });
   fs.writeFile("database.json", JSON.stringify(data), () => {
     console.log("Generate data success");
   });
