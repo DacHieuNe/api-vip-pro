@@ -657,6 +657,8 @@ const fs = require("fs");
     data.all.push({
       id: item.id,
       name: item.name,
+      view: item.view,
+      image: item.images,
       type: "news",
     });
   });
@@ -664,6 +666,8 @@ const fs = require("fs");
     data.all.push({
       id: item.id,
       name: item.name,
+      view: item.view,
+      image: item.images,
       type: "todays",
     });
   });
@@ -671,6 +675,8 @@ const fs = require("fs");
     data.all.push({
       id: item.id,
       name: item.name,
+      view: item.view,
+      image: item.images,
       type: "slides",
     });
   });
