@@ -26,9 +26,9 @@ const fs = require("fs");
       },
       {
         id: faker.datatype.uuid(),
-        name: "ISEKAI WA SMARTPHONE TO TOMO NI. TẬP 13",
-        episode: "13",
-        youtubeID: "xCb1-JZFMlM",
+        name: "ISEKAI WA SMARTPHONE TO TOMO NI. TẬP 12",
+        episode: "12",
+        youtubeID: "nZGxO1Ak_sM",
         view: "2,155,782",
         love: "7,203",
         follower: "9,186",
