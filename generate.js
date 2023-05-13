@@ -239,6 +239,7 @@ const fs = require("fs");
       {
         id: faker.datatype.uuid(),
         name: "Doraemon - Tập 460 - Ngôi Nhà Trực Thăng - Sinh Nhật Tồi Tệ Của Shizuka - Hoạt Hình Tiếng Việt",
+        episode: "460",
         youtubeID: "Z9uEn2IVPkQ",
         view: "114,468",
         love: "473",
@@ -252,6 +253,7 @@ const fs = require("fs");
       {
         id: faker.datatype.uuid(),
         name: "Doraemon - Tập 491 - Tôm Chiên Của Nobita, Mọi Người Ơi! Cứu Mình Với!",
+        episode: "491",
         youtubeID: "aiEzbK3YszI",
         view: "153,668",
         love: "539",
@@ -265,6 +267,7 @@ const fs = require("fs");
       {
         id: faker.datatype.uuid(),
         name: "Doraemon Tập 276 - Khăn Trải Bàn Ẩm Thực, Việc Làm Thêm Của Người Tuyết",
+        episode: "276",
         youtubeID: "Xk7GKMV3Ipg",
         view: "234,643",
         love: "1255",
@@ -278,6 +281,7 @@ const fs = require("fs");
       {
         id: faker.datatype.uuid(),
         name: "Doraemon Tập 284 - Đội Trưởng Nobita, Tên Lửa Của Thiên Tài Dekisugi",
+        episode: "284",
         youtubeID: "5IafY9dMiFQ",
         view: "453,324",
         love: "643",
@@ -291,6 +295,7 @@ const fs = require("fs");
       {
         id: faker.datatype.uuid(),
         name: "Doraemon Tập 285 - Siêu Áo Giáp, Câu Chuyện Của Tinh Linh Và Nobita",
+        episode: "285",
         youtubeID: "1nl5YuXuV0c",
         view: "53,235",
         love: "5649",
@@ -304,6 +309,7 @@ const fs = require("fs");
       {
         id: faker.datatype.uuid(),
         name: "Doraemon Tập 307 - Tiếp Tục Cuộc Hành Trình Của Mình - Tiếng Việt",
+        episode: "307",
         youtubeID: "gnJKhjMr5cY",
         view: "53,325",
         love: "549",
@@ -317,6 +323,7 @@ const fs = require("fs");
       {
         id: faker.datatype.uuid(),
         name: "Doraemon Tập 292 - Trò Chơi người Thật Của Tương Lai, Thám Tử Nobita",
+        episode: "292",
         youtubeID: "Y9aVQrQVHG8",
         view: "6,398",
         love: "106",
@@ -330,6 +337,7 @@ const fs = require("fs");
       {
         id: faker.datatype.uuid(),
         name: "Doraemon - Tập 511 - Thợ Săn Khủng Long - Hoạt Hình Tiếng Viêt",
+        episode: "511",
         youtubeID: "ADkVOsJwAAU",
         view: "64,322",
         love: "6,444",
@@ -343,6 +351,7 @@ const fs = require("fs");
       {
         id: faker.datatype.uuid(),
         name: "Doraemon Tập 331 - Đi Bộ Dưới Đáy Biển, Mùa Đông Giữa Mùa Hè",
+        episode: "331",
         youtubeID: "i_bsMOp9C84",
         view: "75,668",
         love: "7,554",
@@ -356,6 +365,7 @@ const fs = require("fs");
       {
         id: faker.datatype.uuid(),
         name: "Doraemon Tập 278 - Máy Giao Dịch, Trang Trại Bánh Kẹo",
+        episode: "278",
         youtubeID: "J4Lva96VCnk",
         view: "7,665",
         love: "1,643",
@@ -369,6 +379,7 @@ const fs = require("fs");
       {
         id: faker.datatype.uuid(),
         name: "Doraemon Tập 344 - Chương Trình Ăn Tối Đáng Sợ Của Jaian, Đôi Khi Nobita Cũng Dùng Não Suy Nghĩ",
+        episode: "344",
         youtubeID: "Z3wQunEaMRU",
         view: "65,444",
         love: "25,325",
@@ -382,6 +393,7 @@ const fs = require("fs");
       {
         id: faker.datatype.uuid(),
         name: "Doraemon Tập 343 - Đẩy Lùi Người Ngoài Hành Tinh",
+        episode: "343",
         youtubeID: "oM3Cr3h-ljQ",
         view: "644,334",
         love: "42,322",
@@ -606,11 +618,19 @@ const fs = require("fs");
       {
         id: faker.datatype.uuid(),
         name: "Thám tử lừng danh Conan - Chuyện Tình Sở Cảnh Sát",
+        episode: "Tập dài",
         youtubeID: "q4VFvQJ3vt0",
         view: "134,678",
-        love: "19,000",
+        love: "100",
         follower: "5,698",
-        category: "Phiêu Lưu",
+        category: ["Hài hước", "Trường học", "Trinh thám"],
+        tag: [
+          "Detective Conan / Case Closed",
+          "Thám Tử Lừng Danh Conan",
+          "Thám Tử Lừng Danh Conan Vietsub",
+          "Thám Tử Lừng Danh Conan HD",
+          "Thám Tử Lừng Danh Conan tập mới nhất",
+        ],
         description:
           "Đây là một tập phim dài 60 phút bao gồm các đoạn phim liên quan đến cặp đôi cảnh sát Miwako Sato và Wataru Takagi. Xuyên suốt những thước phim, khán giả sẽ cùng nhìn lại những cuộc phiêu lưu mà họ đã cùng nhau trải qua cùng và những bước ngoặt đáng nhớ trong cuộc tình của cả hai.",
         images: "https://i.postimg.cc/jdTV7TdC/c-2.jpg",
@@ -618,11 +638,17 @@ const fs = require("fs");
       {
         id: faker.datatype.uuid(),
         name: "Cánh Hoa Trôi Giữa Hoàng Triều Mùa 1 - Tập Full",
+        episode: "1",
         youtubeID: "HYNyfAylavY",
         view: "565,434",
         love: "63,326",
         follower: "16,343",
-        category: "Phiêu Lưu",
+        category: ["Cổ trang", "Tình cảm"],
+        tag: [
+          "Cánh Hoa Trôi Giữa Hoàng Triều",
+          "Cánh Hoa Trôi Giữa Hoàng Triều Mùa 1",
+          "Cánh Hoa Trôi Giữa Hoàng Triều Mùa 1 Vietsub Full HD",
+        ],
         description:
           "Những hình ảnh đầu tiên từ bộ moving toon Cánh hoa trôi giữa Hoàng triều đã được hé lộ. Câu chuyện về Lý Chiêu Hoàng - vị nữ hoàng đế đầu tiên và cũng là duy nhất trong lịch sử Việt Nam, một mối tình khởi nguồn cho một cuộc chuyển giao quyền lực trước nay chưa từng có, sự khởi đầu và kết thúc của hai triều đại phong kiến rực rỡ bậc nhất trong lịch sử Việt Nam, tất cả sẽ được mang đến trong bộ moving toon lấy cảm hứng từ đề tại lịch sử này.",
         images: "https://i.postimg.cc/43dh5jwT/c-1.png",
@@ -630,11 +656,18 @@ const fs = require("fs");
       {
         id: faker.datatype.uuid(),
         name: "Naruto Movie 5 : Huyết Ngục",
+        episode: "Tập dài",
         youtubeID: "LIrXtG5viTM",
         view: "631,000",
         love: "75,181",
         follower: "1,698",
-        category: "Phiêu Lưu",
+        category: ["Hành Động"],
+        tag: [
+          "The Last: Naruto The Movie",
+          "The Last: Naruto The Movie Vietsub",
+          "The Last: Naruto The Movie HD",
+          "The Last: Naruto The Movie Full",
+        ],
         description:
           "Bị bắt sau khi bị kết tội mưu đồ ám sát Raikage, lãnh đạo tối cao của làng Mây cũng như sát hại các ninja Thượng đẳng của làng Sương Mù và làng Đá, Naruto sau đó bị giam vào ngục Hozukijou (còn được gọi là Huyết Ngục) Mui - kẻ đứng đầu nơi này sử dụng một loại nhẫn thuật tối thượng để đánh cắp sức mạnh của những tù nhân ở đây. Naruto cũng cảm nhận được mình đang bị thế lực nào đó truy sát. Những cuộc điều tra nhằm tìm ra sự thật về kẻ sát nhân giấu mặt cũng như khẳng định sự vô tội của Naruto từ đó cũng bắt đầu.",
         images: "https://i.postimg.cc/0jPsP1z6/c-3.jpg",
@@ -642,11 +675,19 @@ const fs = require("fs");
       {
         id: faker.datatype.uuid(),
         name: "Dragon Ball Super",
+        episode: "Tập dài",
         youtubeID: "gxKeCTtRytE",
         view: "1,532,125",
         love: "35,232",
         follower: "30,352",
-        category: "Phiêu Lưu",
+        category: ["Hành Động", "Hài Hước", "Phiêu Lưu", "Siêu Nhiên"],
+        tag: [
+          "Dragon Ball Super",
+          "Dragon Ball Super Vietsub",
+          "Dragon Ball Super HD",
+          "Dragon Ball Super tập mới nhất",
+          "Ngọc rồng siêu cấp",
+        ],
         description:
           "Dragon Ball Super kể về những cuộc phiêu lưu của Goku trong khoảng thời gian 10 năm sau thất bại của Majin Buu. Sau khi gặp những sinh vật mạnh hơn rất nhiều, Goku đạt được sức mạnh của một vị thần và phải học cách sử dụng sức mạnh mới đó trong vũ trụ của mình khi du hành đến các vũ trụ khác để đối mặt với những kẻ thù mạnh hơn và những kẻ thù gần như không thể ngăn cản. ",
         images: "https://i.postimg.cc/c4CD279m/banner4.jpg",
