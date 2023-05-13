@@ -571,6 +571,48 @@ const fs = require("fs");
         ],
         images: "https://i.postimg.cc/gJJd54Nn/k-11.jpg",
       },
+      {
+        id: faker.datatype.uuid(),
+        name: "ALICE GEAR AEGIS EXPANSION TẬP 2",
+        title: "Access đối đầu nhóm bảo trì",
+        type: "alice",
+        episode: "2",
+        youtubeID: "hO7pNIUxDfU",
+        view: "1,896",
+        love: "24",
+        follower: "40",
+        category: ["Hành động", "Viễn tưởng", "Game"],
+        description:
+          "Thời gian là tương lai, dưới sự tấn công bất ngờ của dạng sống máy móc Weiß, con người buộc phải thoát khỏi trái đất và tiến vào vũ trụ. Trong thời gian chạy trốn, Space Fleet SHARD đã phát triển thành công Alice Gear, một bộ giáp có thể cho phép con người chiến đấu chống lại Weiß, và gọi những người phụ nữ xuất sắc phù hợp để vận hành họ là Actress.Thời gian trôi qua, Actress của các doanh nghiệp tư nhân cũng có thể làm việc để trục xuất Weiß sau khi được tổ chức Weiß AEGiS công nhận, và đây cũng là khởi đầu của câu chuyện về những cô gái với Alice Gear cứu những người lang thang trong vũ trụ!",
+        tag: [
+          "Alice Gear Aegis Expansion",
+          "Alice Gear Aegis Expansion Vietsub",
+          "Alice Gear Aegis Expansion HD",
+          "Alice Gear Aegis Expansion tập mới nhất",
+        ],
+        images: "https://i.postimg.cc/W4594PPb/a-2.jpg",
+      },
+      {
+        id: faker.datatype.uuid(),
+        name: "ALICE GEAR AEGIS EXPANSION TẬP 3",
+        title: "Ác mộng của Narukozaka",
+        type: "alice",
+        episode: "3",
+        youtubeID: "_-6mMWwPPZw",
+        view: "839",
+        love: "24",
+        follower: "40",
+        category: ["Hành động", "Viễn tưởng", "Game"],
+        description:
+          "Thời gian là tương lai, dưới sự tấn công bất ngờ của dạng sống máy móc Weiß, con người buộc phải thoát khỏi trái đất và tiến vào vũ trụ. Trong thời gian chạy trốn, Space Fleet SHARD đã phát triển thành công Alice Gear, một bộ giáp có thể cho phép con người chiến đấu chống lại Weiß, và gọi những người phụ nữ xuất sắc phù hợp để vận hành họ là Actress.Thời gian trôi qua, Actress của các doanh nghiệp tư nhân cũng có thể làm việc để trục xuất Weiß sau khi được tổ chức Weiß AEGiS công nhận, và đây cũng là khởi đầu của câu chuyện về những cô gái với Alice Gear cứu những người lang thang trong vũ trụ!",
+        tag: [
+          "Alice Gear Aegis Expansion",
+          "Alice Gear Aegis Expansion Vietsub",
+          "Alice Gear Aegis Expansion HD",
+          "Alice Gear Aegis Expansion tập mới nhất",
+        ],
+        images: "https://i.postimg.cc/yNFXt4L8/a-3.jpg",
+      },
     ],
     news: [
       {
@@ -639,6 +681,8 @@ const fs = require("fs");
       {
         id: faker.datatype.uuid(),
         name: "ALICE GEAR AEGIS EXPANSION TẬP 1",
+        title: "Tạm biệt, Xưởng Narukozaka",
+        type: "alice",
         episode: "1",
         youtubeID: "mCgnSU4DLnM",
         view: "4,231",
