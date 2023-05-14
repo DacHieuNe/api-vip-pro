@@ -1708,7 +1708,7 @@ const fs = require("fs");
         title: "Quyết định, và với chiếc Smartphone của tôi",
         type: "wa",
         episode: "12",
-        youtubeID: "nZGxO1Ak_sM",
+        youtubeID: "JFtUZeol9Ow",
         view: "2,155,782",
         love: "7,203",
         follower: "9,186",
