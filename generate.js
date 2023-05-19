@@ -2315,8 +2315,10 @@ const fs = require("fs");
       {
         id: faker.datatype.uuid(),
         name: "Thám tử lừng danh Conan - Chuyện Tình Sở Cảnh Sát",
+        title: "Chuyện tình cở cảnh sát",
+        type: "conan",
         episode: "Tập dài",
-        youtubeID: "q4VFvQJ3vt0",
+        youtubeID: "KbpdA3ddrHU",
         view: "134,678",
         love: "100",
         follower: "5,698",
@@ -2335,6 +2337,8 @@ const fs = require("fs");
       {
         id: faker.datatype.uuid(),
         name: "Cánh Hoa Trôi Giữa Hoàng Triều Mùa 1 - Tập Full",
+        title: "Cánh hoa trôi giữa hoàng triều",
+        type: "canh",
         episode: "1",
         youtubeID: "HYNyfAylavY",
         view: "565,434",
@@ -2353,6 +2357,8 @@ const fs = require("fs");
       {
         id: faker.datatype.uuid(),
         name: "Naruto Movie 5 : Huyết Ngục",
+        title: "Huyết ngục",
+        type: "naruto",
         episode: "Tập dài",
         youtubeID: "LIrXtG5viTM",
         view: "631,000",
@@ -2372,6 +2378,8 @@ const fs = require("fs");
       {
         id: faker.datatype.uuid(),
         name: "Dragon Ball Super",
+        title: "Dragon ball super",
+        type: "dragonball",
         episode: "Tập dài",
         youtubeID: "gxKeCTtRytE",
         view: "1,532,125",
