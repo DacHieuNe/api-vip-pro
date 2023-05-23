@@ -9,6 +9,7 @@ const fs = require("fs");
         name: "EDENS ZERO",
         chap: "Chap 233",
         title: "Edens Zero - Vũ Trụ Phiêu Lưu Ký",
+        article: "storys",
         tag: "Edens Zero - Vũ Trụ Phiêu Lưu Ký / Edens Zero chap mới nhất / Edens Zero chap 233",
         author: "Mashima Hiro",
         status: "Đang cập nhật",
@@ -44,6 +45,7 @@ const fs = require("fs");
         name: "ONE PIECE",
         chap: "Chap 1080",
         title: "Vua Hải Tặc",
+        article: "storys",
         tag: "Vua Hải Tặc / Đảo Hải Tặc / One piece chap 1080",
         author: "Oda",
         status: "Đang cập nhật",
@@ -74,6 +76,7 @@ const fs = require("fs");
         name: "AHAREN-SAN WA HAKARENAI",
         chap: "Chap 142",
         title: "Aharen-San Thật Khó Hiểu",
+        article: "storys",
         tag: "Truyện Aharen-San Wa Harakenai / Aharen-san thật khó hiểu / Aharen-san Wa Hakarenai chap mới nhất",
         author: "Mizu, Asato",
         status: "Đang cập nhật",
@@ -102,6 +105,7 @@ const fs = require("fs");
         name: "JUJUTSU KAISEN - CHÚ THUẬT HỒI CHIẾN",
         chap: "Chap 219",
         title: "Vật Thể Bị Nguyền Rủa",
+        article: "storys",
         tag: "Truyện Jujutsu Kaisen - Chú thuật hồi chiến / Vật Thể Bị Nguyền Rủa / Jujutsu Kaisen - Chú thuật Hồi Chiến chap mới nhất",
         author: "Akutami Gege",
         status: "Đang cập nhật",
@@ -137,6 +141,7 @@ const fs = require("fs");
         name: "KINGDOM – VƯƠNG GIẢ THIÊN HẠ",
         chap: "Chap 753",
         title: "Kingdom",
+        article: "storys",
         tag: "Truyện Kingdom - Vương giả thiên hạ / Kingdom - Vương giả thiên hạ mới nhất / Kingdom chap 753",
         author: "Hara Yasuhisa",
         status: "Đang cập nhật",
@@ -172,6 +177,7 @@ const fs = require("fs");
         name: "NGỰ LINH THẾ GIỚI",
         chap: "Chap 718",
         title: "Ngự Linh Thế Giới",
+        article: "storys",
         tag: "Truyện Ngự Linh Thế Giới / Ngự Linh Thế Giới / Ngự Linh Thế Giới chap mới nhất",
         author: "Đang cập nhật",
         status: "Đang cập nhật",
@@ -2216,11 +2222,16 @@ const fs = require("fs");
       },
     ],
   };
-  data["all-movie"].forEach(item => {
-    if(!item.article) {
+  data["all-movie"].forEach((item) => {
+    if (!item.article) {
       item.article = "";
     }
-  })
+  });
+  data["all-story"].forEach((item) => {
+    if (!item.article) {
+      item.article = "";
+    }
+  });
   fs.writeFile("database.json", JSON.stringify(data), () => {
     console.log("Generate data success");
   });
