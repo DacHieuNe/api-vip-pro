@@ -788,6 +788,22 @@ const fs = require("fs");
       },
       {
         id: faker.datatype.uuid(),
+        name: "Tuyển tập Hoạt Hình Doraemon phần 1",
+        title:
+          "Tuyển Tập Hoạt Hình Doraemon Phần 1 - Trọn Bộ Hoạt Hình Doraemon Lồng Tiếng Viêt",
+        type: "Doraemon",
+        article: "todays",
+        episode: "1",
+        youtubeID: "dKmQHIl70Bc",
+        view: "904,282",
+        category: ["Hoạt hình", "Phiêu Lưu", "Vui vẻ"],
+        description:
+          "Doraemon là một chú mèo máy được Nobi Sewashi (Nobi Nobito), cháu năm đời của Nobi Nobita, gửi từ thế kỷ 22 về quá khứ của ông mình để giúp đỡ Nobita trở nên tiến bộ và giàu có, tức là cũng sẽ cải thiện hoàn cảnh của con cháu Nobita sau này. Còn ở hiện tại, Nobita là một cậu bé luôn thất bại ở trường học, và sau đó công ty phá sản, thất bại trong công việc, đẩy gia đình và con cháu sau này vào cảnh nợ nần.",
+        tag: ["Doraemon", "Nobita", "Shizuka", "Chaien"],
+        images: "https://i.ibb.co/m9pQ5Zd/d-1.jpg",
+      },
+      {
+        id: faker.datatype.uuid(),
         name: "Doraemon - Tập 491 - Tôm Chiên Của Nobita, Mọi Người Ơi! Cứu Mình Với!",
         title: "Tôm Chiên Của Nobita",
         type: "Doraemon",
